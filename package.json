@@ -1,0 +1,27 @@
+{
+	"name": "generator-css-variables",
+	"version": "1.0.0",
+	"description": "",
+	"main": "dist/index.js",
+	"module": "dist/index.js",
+	"scripts": {
+		"build": "npm run rm && cross-env NODE_ENV=production babel index.mjs --out-dir dist",
+		"rm": "rimraf ./dist",
+		"eslint": "eslint",
+		"prettier": "prettier"
+	},
+	"keywords": [],
+	"author": "Urij Horuzij",
+	"license": "MIT",
+	"devDependencies": {
+		"@babel/cli": "^7.17.10",
+		"@babel/core": "^7.18.2",
+		"@babel/preset-env": "^7.18.2",
+		"babel-eslint": "^10.1.0",
+		"babel-preset-minify": "^0.5.2",
+		"cross-env": "^7.0.3",
+		"eslint": "^8.17.0",
+		"prettier": "^2.6.2",
+		"rimraf": "^3.0.2"
+	}
+}

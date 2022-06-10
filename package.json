@@ -4,6 +4,10 @@
 	"description": "",
 	"main": "dist/index.js",
 	"module": "dist/index.js",
+	"files": [
+		"dist",
+		"README.md"
+	],
 	"scripts": {
 		"build": "npm run rm && cross-env NODE_ENV=production babel index.mjs --out-dir dist",
 		"rm": "rimraf ./dist",

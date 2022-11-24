@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/UrijHoruzij/generator-css-variables/compare/v1.1.0...v1.1.1) (2022-11-24)
+
+
+### Bug Fixes
+
+* edit readme file ([e38d005](https://github.com/UrijHoruzij/generator-css-variables/commit/e38d0054441eb3d79bc9725dbf95b0c344c1ae48))
+
 # [1.1.0](https://github.com/UrijHoruzij/generator-css-varibles/compare/v1.0.1...v1.1.0) (2022-11-21)
 
 

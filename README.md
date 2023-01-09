@@ -44,4 +44,4 @@ generator.default(themes, { path: 'src/themes/', pretty: true });
 
 ## License
 
-Generator-css-variables is released under the [MIT License](https://github.com/UrijHoruzij/generator-css-variables/LICENSE.md).
+Generator-css-variables is released under the [MIT License](https://github.com/UrijHoruzij/generator-css-variables/blob/master/LICENSE).

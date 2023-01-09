@@ -6,7 +6,7 @@
     <a aria-label="NPM version" href="https://www.npmjs.com/package/generator-css-variables">
       <img alt="npm" src="https://img.shields.io/npm/v/generator-css-variables?color=f8b696">
     </a>
-    <a aria-label="License" href="https://github.com/UrijHoruzij/generator-css-variables/LICENSE.md">
+    <a aria-label="License" href="https://github.com/UrijHoruzij/generator-css-variables/blob/master/LICENSE">
       <img alt="NPM" src="https://img.shields.io/npm/l/generator-css-variables?color=f8b696">
     </a>
   </p>
